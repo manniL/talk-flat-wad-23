@@ -1,0 +1,19 @@
+{
+  "name": "talk-nuxt3-enterjs-06-2023",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "devDependencies": {
+    "@iconify-json/heroicons": "^1.1.11",
+    "@iconify-json/logos": "^1.1.33",
+    "@iconify-json/mdi": "^1.1.52"
+  }
+}
